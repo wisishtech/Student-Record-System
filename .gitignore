@@ -1,0 +1,116 @@
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# Compiled binaries
+StudentRecordSystem
+StudentRecordSystem.exe
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# CLion specific
+cmake-build-debug/
+cmake-build-release/
+cmake-build-relwithdebinfo/
+cmake-build-minsizerel/
+
+# Data files (optional - remove if you want to track sample data)
+src/data/students.txt
+data/*.backup
+data/*.csv
+*.backup
+
+# Log files
+*.log
+debug.txt
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.#*
+#*#
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.fseventsd
+.DocumentRevisions-V100
+.TemporaryItems
+.Apdisk
+
+# Windows specific
+$RECYCLE.BIN/
+Desktop.ini
+ehthumbs.db
+thumbs.db
+
+# Linux specific
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Core dumps
+core
+core.*
+vgcore.*
+
+# Valgrind output
+*.valgrind
+massif.out.*
+
+# GDB history
+.gdb_history
+
+# Package files
+*.tar.gz
+*.zip
+*.dmg
+*.pkg
+*.deb
+*.rpm
+
+# Application bundle (macOS)
+*.app/
+
+# Configuration files with sensitive data
+config.local
+*.secret
