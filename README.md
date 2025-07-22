@@ -813,7 +813,8 @@ This project is licensed under the **Educational Project License**.
 When using this project, please include:
 ```
 Student Record Management System v2.0
-Created by Wisdom Chimezie
+Created by: Wisdom Chimezie, Michael Olanrewaju, Ezechukwu Samuel Chiemezu, Abimbola Fakorede
+Emails: Abimbola.fakorede@miva.edu.ng, michael.olanrewaju@miva.edu.ng, samuel.ezechukwu@miva.edu.ng, wisdom.chimezie@miva.edu.ng
 GitHub: https://github.com/wisishtech/student-record-system
 ```
 
